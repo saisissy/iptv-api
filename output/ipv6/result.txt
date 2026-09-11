@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-09-09 22:29:26,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
+2026-09-11 22:22:06,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
 
 📺央视频道,#genre#
 CCTV-4,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
@@ -28,6 +28,8 @@ Viutv,http://r.jdshipin.com/vSJvl
 黑莓电影,https://epg.pw/stream/ffcb6572863f0745a7369fbd9d901f1dfd0ab8fab8bad8bebb4e01c90b303c47.m3u8
 天映经典,https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
 天映经典,https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
+天映经典,https://cdn3.indevs.in/stream/live/ccm/
+天映经典,https://cdn3.indevs.in/stream/live/ccm/
 天映经典,https://epg.pw/stream/cb817875cf26eb683af274dd8cdf7f559a71353d9565c32447c8d98894bc8095.ctv
 
 🎥咪咕直播,#genre#
