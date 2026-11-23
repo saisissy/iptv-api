@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-11-22 01:23:19,https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u8
+2026-11-24 06:06:01,https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u8
 
 📺央视频道,#genre#
 CCTV-13,https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u8
@@ -12,10 +12,11 @@ CCTV-13,https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u
 ☘️上海频道,#genre#
 
 🌊港·澳·台,#genre#
+凤凰中文,http://cc.123.rr.kg/163189/fhzw
+凤凰中文,http://cc.123.rr.kg/163189/fhzw
+凤凰资讯,http://cc.123.rr.kg/163189/fhzx
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
-Viutv,http://r.jdshipin.com/TcKr2
-Viutv,http://r.jdshipin.com/TcKr2
 三立新闻,https://epg.pw/stream/6b49e3faa38adda85abab446f032dc1e686baa0760a9cfa66e2df8fd6fe3b445.m3u8
 三立新闻,https://epg.pw/stream/6b49e3faa38adda85abab446f032dc1e686baa0760a9cfa66e2df8fd6fe3b445.m3u8
 
@@ -24,6 +25,7 @@ Viutv,http://r.jdshipin.com/TcKr2
 天映经典,https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
 天映经典,https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
 天映经典,https://epg.pw/stream/cb817875cf26eb683af274dd8cdf7f559a71353d9565c32447c8d98894bc8095.ctv
+东森洋片,https://epg.pw/stream/3c88da979f696eed7a0c30ab17d5f29bfe41bcfb61d702b66af059ca81d61d18.m3u8
 
 🎥咪咕直播,#genre#
 
